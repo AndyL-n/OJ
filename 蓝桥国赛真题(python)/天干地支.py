@@ -1,0 +1,3 @@
+data = ["gengshen","xinyou","renxu","guihai","jiazi","yichou","bingyin","dingmao","wuchen","jisi","gengwu","xinwei","renshen","guiyou","jiaxu","yihai","bingzi","dingchou","wuyin","jimao","gengchen","xinsi","renwu","guiwei","jiashen","yiyou","bingxu","dinghai","wuzi","jichou","gengyin","xinmao","renchen","guisi","jiawu","yiwei","bingshen","dingyou","wuxu","jihai","gengzi","xinchou","renyin","guimao","jiachen","yisi","bingwu","dingwei","wushen","jiyou","gengxu","xinhai","renzi","guichou","jiayin","yimao","bingchen","dingsi","wuwu","jiwei"]
+n = int(input())
+print(data[n%60])
