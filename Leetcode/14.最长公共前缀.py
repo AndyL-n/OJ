@@ -27,7 +27,7 @@ class Solution:
             else:
                 flag = 0
                 break
-        return a if flag else a[:index]
+        return a if flag else a[:index]/
 # 同位置比较
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
