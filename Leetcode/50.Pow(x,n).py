@@ -14,4 +14,3 @@ class Solution:
             x *= x
             n >>=1
         return ans if flag >= 0 else 1.0/ans
-    
